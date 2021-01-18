@@ -1,0 +1,9 @@
+{
+    "material-icon-theme.activeIconPack": "react_redux",
+    "files.exclude": {
+        "**/.DS_Store": true,
+        "**/bin": true,
+        "**/obj": true,
+        "**/Properties": true
+    }
+}
